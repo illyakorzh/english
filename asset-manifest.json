@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/static/js/main.fb725fd2.js",
+    "static/media/pexels-felix-mittermeier-956981.jpg": "/static/media/pexels-felix-mittermeier-956981.c75aac530b411960bb09.jpg",
+    "static/media/google.svg": "/static/media/google.d54c28db26a2a9099f8a9ade82cf8c2b.svg",
+    "index.html": "/index.html",
+    "main.fb725fd2.js.map": "/static/js/main.fb725fd2.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.fb725fd2.js"
+  ]
+}
